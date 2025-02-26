@@ -6,3 +6,6 @@ Tokenetes is a Kubernetes-native framework designed to facilitate the adoption o
 
 
 ## For more information on Tokenetes, visit [tokenetes.io](https://tokenetes.io)
+
+## CNCF Code of Conduct
+This GitHub organization and all repositories in this GitHub organization, follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md). 
